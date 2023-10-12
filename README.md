@@ -9,8 +9,8 @@
 
 ## seoul_birthrate.ipynb
 
-서울의 출산율 데이터 (구별)
+서울의 출산율 데이터 (구 별)
 
 ## korea_birthradte.ipynb
 
-한국의 출산율 (지역별)
+한국의 출산율 (지역 별)
